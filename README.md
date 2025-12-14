@@ -55,7 +55,9 @@ These visualizations help validate assumptions, detect patterns, and interpret m
 ## Tech Stack
 
 -Python
+
 -NumPy, Pandas,Matplotlib, Seaborn
+
 -scikit-learn
 
 ---
