@@ -32,7 +32,6 @@ A **Random Forest Regressor** was trained and evaluated using robust cross-valid
 | Metric                      | Value         |
 |-----------------------------|---------------|
 | Cross-Val Mean Score ± std  | 0.506 ± 0.014 |
-| Cross-Validation Std        | 0.01          |
 | RMSE                        | 0.504         |
 | MAE                         | 0.327         |
 | R² Score                    | 0.8055        |
