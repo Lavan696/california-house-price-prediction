@@ -66,3 +66,8 @@ joblib.dump(model, "california_housing_random_forest.pkl")`
 
 ---
 
+##  Author  
+
+**Lavan Kumar Konda**  
+-  2nd Year Student at NIT Andhra Pradesh  
+-  Passionate about Data Science, Machine Learning, and AI  
