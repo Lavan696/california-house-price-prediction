@@ -58,6 +58,10 @@ These visualizations help validate assumptions, detect patterns, and interpret m
 - scikit-learn
 
 ---
+
+I also included markdown explanations for every major code cell to clearly describe the purpose of each step and make the workflow easier to understand.
+
+---
 ## Model Persistence
 The trained **Random Forest Regressor** was saved using `joblib` for reuse and deployment:
 `python
