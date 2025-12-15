@@ -40,6 +40,9 @@ A **Random Forest Regressor** was trained and evaluated using robust cross-valid
 
 ---
 
+Since the target variable (MedHouseVal) in the scikit-learn California Housing dataset is measured in units of $100,000, the reported RMSE and MAE correspond to approximately $50k and $33k prediction error respectively.
+
+---
 ## Visualizations Included
 - Feature correlation heatmap  
 - Correlation of features with target  
